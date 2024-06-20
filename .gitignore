@@ -1,3 +1,6 @@
 # Ignore virtualenvs from the repository
 .venv/
 .venvwin/
+
+# Ignore the local settings file
+.config.ini
